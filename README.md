@@ -19,7 +19,9 @@ Data Structures Used: Arrays, Variables
 Input Handling: User inputs are captured using the scanf() function.
 Output: Bills are displayed on the console with detailed itemization and total cost.
 
-![image](https://github.com/ajitkumar7432/Billing_C_Project/assets/156606144/6775a41b-ada4-4911-851b-cb5bdd6497fd)
 
-![image](https://github.com/ajitkumar7432/Billing_C_Project/assets/156606144/bbdb8e35-f281-4553-8c52-34025a1efb18)
+![image](https://github.com/ajitkumar7432/Billing_C_Project/assets/156606144/8c6c24ce-61e2-4df1-a07b-5179d144e5fe)
+
+
+![image](https://github.com/ajitkumar7432/Billing_C_Project/assets/156606144/0b6de693-3376-4575-a3d1-96e8ba16aa5b)
 
